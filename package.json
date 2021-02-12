@@ -1,0 +1,25 @@
+{
+  "name": "homework1",
+  "version": "1.0.0",
+  "description": "Homework 1",
+  "main": "index.js",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint src/**/*.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvesche20/homework1.git"
+  },
+  "author": "Jacob Vesche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvesche20/homework1/issues"
+  },
+  "homepage": "https://github.com/jvesche20/homework1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "enlist": "^0.1.0"
+  }
+}
